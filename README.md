@@ -1,7 +1,6 @@
 # Catch Pink Flamingos Game
 
-Tech Stack , Tools and Skills  Required for Project
-
+The technology stack, tools, and skills required for the project.
 
 Big Data Management
 
