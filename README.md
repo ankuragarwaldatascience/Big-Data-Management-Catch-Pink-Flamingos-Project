@@ -1,5 +1,8 @@
 # Catch Pink Flamingos Game
 
+Tech Stack , Tools and Skills  Required for Project
+
+
 Big Data Management
 
 Managing big data involves organizing, managing, and governing large volumes of structured and unstructured data. A big data management system is designed to ensure high data quality and accessibility for big data analytics and business intelligence.
