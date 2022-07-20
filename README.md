@@ -1,5 +1,9 @@
 # Catch Pink Flamingos Game
 
+Big Data Management
+
+Managing big data involves organizing, managing, and governing large volumes of structured and unstructured data. A big data management system is designed to ensure high data quality and accessibility for big data analytics and business intelligence.
+
 
 ![PRcj](https://user-images.githubusercontent.com/103935236/169433553-600a290a-8d49-4196-8f41-3b360a41fb8f.gif)
 
