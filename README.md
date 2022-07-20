@@ -1,6 +1,5 @@
 # Catch Pink Flamingos Game
 
-![image](https://user-images.githubusercontent.com/103935236/179876226-f0914ef1-68b5-4b3e-8bc4-112457a5dfdc.png)
 
 
 ![PRcj](https://user-images.githubusercontent.com/103935236/169433553-600a290a-8d49-4196-8f41-3b360a41fb8f.gif)
