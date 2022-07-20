@@ -5,6 +5,18 @@ Big Data Management
 Managing big data involves organizing, managing, and governing large volumes of structured and unstructured data. A big data management system is designed to ensure high data quality and accessibility for big data analytics and business intelligence.
 
 
+Outcomes of Learning
+
+1.Analyze the paradigms of modern big data processing critically.
+2.Implement a big data solution using a dataset provided.
+3.Implement a big data solution after analyzing use cases, visualizing results, and reporting them.
+4.Using Big Data as a solution, assess how ethics drive design decisions.
+
+
+Observations:
+
+Developing an understanding of the impact of big data solutions on business growth is an essential skill for the industry. Through hands-on experience with the tools and systems used by big data scientists and engineers, this assignment will walk you through the different stages of developing a big data solution. As a result, it will enable the user to ask the right questions about data, communicate effectively with data scientists, and perform basic explorations of large, complex datasets. 
+
 ![PRcj](https://user-images.githubusercontent.com/103935236/169433553-600a290a-8d49-4196-8f41-3b360a41fb8f.gif)
 
 
