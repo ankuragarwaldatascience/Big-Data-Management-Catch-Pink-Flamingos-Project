@@ -3,6 +3,9 @@
 This project included the analysis of Catch the pink flamingos, an online game where players try to capture as many pink flamingos as possible. 
 
 The technology stack, tools, and skills required for the project.
+Programming Languages -
+Softwares -
+Key Topics - 
 
 Big Data Management
 
